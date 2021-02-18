@@ -1,0 +1,1 @@
+<footer class="main"> &copy; 2019 <strong>Gold's Gym center</strong></footer>
